@@ -1,5 +1,8 @@
 {
   "name": "ChatCpp",
   "version": "1.0.0",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
 }
